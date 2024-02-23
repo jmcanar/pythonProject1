@@ -1,5 +1,5 @@
-
-arreglo_3x3 =([
+import numpy as np
+arreglo_3x3 =np.array([
 
         [4,7,2],
         [1,9,6],

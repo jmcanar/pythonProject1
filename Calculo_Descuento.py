@@ -5,7 +5,7 @@ def calcular_descuento(precio_original, porcentaje_descuento):
 # valores
 precio_inicial = 1000 #valor de la compra
 descuento_porcentaje = 10 #porcentaje de descuento
-descuento_porcentaje2 = 10
+descuento_porcentaje2 = 10#porcentaje de descuento2
 #llamada de la funcion
 precio_con_descuento = calcular_descuento(precio_inicial, descuento_porcentaje)
 print(f"El precio original es: ${precio_inicial}")
